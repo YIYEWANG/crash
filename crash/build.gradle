@@ -41,5 +41,5 @@ publish {
     artifactId = 'crash'//项目名称
     publishVersion = '1.0.0'//版本号
     desc = 'this is a android crash'//描述
-    website = 'https://github.com/YIYEWANG/Android'
+    website = 'https://github.com/YIYEWANG/crash'
 }
