@@ -21,7 +21,7 @@
 	        compile 'com.github.YIYEWANG:crash:1.0'
 	}
 	
-##或者 
+## 或者 
 
 	dependencies {
 		compile 'com.wman.androidLib:crash:1.0.0'
